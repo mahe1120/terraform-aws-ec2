@@ -3,7 +3,7 @@ variable "ami_id"{
     default = "ami-0220d79f3f480ecf5"
 }
 
-#mandatory
+# mandatory
 variable "sg_id" {
     
 }
